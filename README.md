@@ -43,6 +43,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - **User-Friendly**: Easy navigation and interactive elements for a smooth user experience.
 - **MongoDB Integration**: User data is stored securely in MongoDB.
 
+## Technologies Used
+
+- **Next.js**: React framework for server-side rendering and static site generation.
+- **NextAuth**: Authentication library for Next.js applications.
+- **React**: JavaScript library for building user interfaces.
+- **MongoDB**: NoSQL database for storing user data.
+- **CSS Modules**: Scoped and modular CSS for styling components.
+- **Axios**: Promise-based HTTP client for making API requests.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
