@@ -66,5 +66,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    cd spacex-clone
 
 2. ## Install dependencies:
-```bash
-   npm install
+   ```bash
+      npm install
