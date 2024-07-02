@@ -69,7 +69,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    ```bash
       npm install
    
-2. ## Set up environment variables:
+3. ## Set up environment variables:
 
    Create a .env.local file in the root directory and add the following:
    ```bash
@@ -77,3 +77,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    GOOGLE_CLIENT_SECRET=your-google-client-secret
    MONGODB_URI=your-mongodb-connection-string
    NEXTAUTH_URL=http://localhost:3000
+
+4. ## Run the development server:
+   ```bash
+   npm run dev
+Open http://localhost:3000 with your browser to see the result.
