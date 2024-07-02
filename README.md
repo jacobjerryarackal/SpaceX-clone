@@ -69,7 +69,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    ```bash
       npm install
    
-2. ## Install dependencies:
+2. ## Set up environment variables:
 
    Create a .env.local file in the root directory and add the following:
    ```bash
