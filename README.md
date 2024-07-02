@@ -32,6 +32,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## How to Run
 
 To run nextjs : npm run dev
+To run MongoDB : npm run devstart
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
