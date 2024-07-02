@@ -34,6 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - To run NextJs : npm run dev
 - To run MongoDB : npm run devstart
 
+## Features
+
+- **NextAuth Authentication**: Secure login and registration using Google OAuth.
+- **Beautiful UI**: Aesthetic and modern design inspired by the SpaceX website.
+- **Responsive Design**: Fully responsive layout that works seamlessly on all devices.
+- **Dynamic Pages**: Almost all pages from the SpaceX website are replicated, including vehicle details, missions, and more.
+- **User-Friendly**: Easy navigation and interactive elements for a smooth user experience.
+- **MongoDB Integration**: User data is stored securely in MongoDB.
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
