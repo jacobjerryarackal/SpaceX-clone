@@ -52,6 +52,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - **CSS Modules**: Scoped and modular CSS for styling components.
 - **Axios**: Promise-based HTTP client for making API requests.
 
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/spacex-clone.git
+   cd spacex-clone
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
