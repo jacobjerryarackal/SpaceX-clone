@@ -31,7 +31,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## How to Run
 
-- To run nextjs : npm run dev
+- To run NextJs : npm run dev
 - To run MongoDB : npm run devstart
 
 ## Deploy on Vercel
