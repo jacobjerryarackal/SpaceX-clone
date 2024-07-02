@@ -68,3 +68,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 2. ## Install dependencies:
    ```bash
       npm install
+   
+2. ## Install dependencies:
+
+   Create a .env.local file in the root directory and add the following:
+   ```bash
+   GOOGLE_CLIENT_ID=your-google-client-id
+   GOOGLE_CLIENT_SECRET=your-google-client-secret
+   MONGODB_URI=your-mongodb-connection-string
+   NEXTAUTH_URL=http://localhost:3000
