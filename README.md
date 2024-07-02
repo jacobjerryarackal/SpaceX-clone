@@ -93,3 +93,7 @@ Open http://localhost:3000 with your browser to see the result.
 2. ## Explore the Website:
 - Browse through various pages, including details about Falcon 9, Falcon Heavy, Dragon, Starship, and more.
 - Enjoy the user-friendly interface and responsive design.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
