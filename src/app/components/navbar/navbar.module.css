@@ -1,0 +1,36 @@
+.nav{
+    position: fixed;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: uppercase;
+    padding: 0 30px;
+    z-index: 1000;
+    height: 100px;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    cursor: pointer;
+    width: 210px;
+    height: auto;
+}
+
+.itemslist{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 13px;
+    display: flex;
+    list-style: none;
+}
+
+.items{
+    padding: 14px 16px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+

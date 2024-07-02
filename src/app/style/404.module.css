@@ -1,0 +1,72 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("../../../public/404.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    position: relative;
+    min-height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-transform: uppercase;
+    box-sizing: border-box;    
+  }
+  
+  .error {
+    font-size: 10rem;
+    font-weight: bold;
+    margin: 0;
+    animation: bounce 2s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+  
+  .title {
+    font-size: 3rem;
+    margin: 1rem 0;
+  }
+  
+  .message {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .homeLink {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    min-width: 80px;
+    padding: 15px 30px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    overflow: hidden;
+    z-index: 2;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .homeLink:hover {
+    background: red;
+    color: white;
+  }
+  
