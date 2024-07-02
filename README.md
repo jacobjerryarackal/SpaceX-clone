@@ -82,3 +82,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
    ```bash
    npm run dev
 Open http://localhost:3000 with your browser to see the result.
+
+
+## Usage
+
+1. ## Registration:
+  - Navigate to the "Register" page to create a new account.
+  - Use Google OAuth to log in easily.
+
+2. ## Explore the Website:
+- Browse through various pages, including details about Falcon 9, Falcon Heavy, Dragon, Starship, and more.
+- Enjoy the user-friendly interface and responsive design.
